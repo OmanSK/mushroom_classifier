@@ -3,7 +3,7 @@ from io import BytesIO
 from PIL import Image
 import requests
 from model import prediction as PRED
-from config import TOKEN_API
+from config import TOKEN_API, ONNX
 
 bot = Bot(token=TOKEN_API)
 dp = Dispatcher(bot)
