@@ -1,9 +1,9 @@
-<div align="center">
 ![CustomDataset](https://img.shields.io/badge/CustomDataset-706c62?style=for-the-badge)
 ![DeepLearning](https://img.shields.io/badge/DeepLearning-706c62?style=for-the-badge)
 ![Pytorch](https://img.shields.io/badge/Pytorch-706c62?style=for-the-badge&logo=Pytorch)
 ![ResNet50](https://img.shields.io/badge/ResNet50-706c62?style=for-the-badge&logo=Pytorch)
 ![aiogram](https://img.shields.io/badge/aiogram-706c62?style=for-the-badge&logo=telegram)
+<div align="center">
 <br />
   <a>
     <img src="https://media.tenor.com/DcZBJVr8xKQAAAAC/mushroom-dance.gif" alt="Logo" width="200" height="200">
