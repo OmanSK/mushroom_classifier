@@ -40,10 +40,6 @@ def prediction(image_pil):
         T.Resize(size=(128,128)),
         T.PILToTensor(),
         T.ConvertImageDtype(torch.float),
-        T.ColorJitter(brightness=(0.9, 1.2), contrast=(0.8, 1.2), hue=(-0.01, 0.01)),
-        T.RandomRotation(degrees=5),
-        T.RandomHorizontalFlip(p=0.5),
-        T.RandomErasing(p=0.4, ratio=(0.1, 0.2)),
         T.Normalize(mean=mean, std=std),
     ])
 
