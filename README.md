@@ -9,7 +9,7 @@
     <img src="https://media.tenor.com/DcZBJVr8xKQAAAAC/mushroom-dance.gif" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">Mushroom Classificatione</h3>
+  <h3 align="center">Mushroom Classification</h3>
 </div>
 
 Классификатор изображений, построенный на CNN Resnet50 и предсказывающий 19 классов грибов. Выводит три наиболее вероятных кандидата с указанием этой самой вероятности.
